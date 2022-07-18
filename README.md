@@ -22,22 +22,23 @@
 
 ## My repositories
 
-#### Completed projects
-    Some features may be added to the repositories over time
+#### *Completed projects*
+    Some features may be added to the repositories over time.
 
-[![Pedicure-master](https://github-readme-stats.vercel.app/api/pin/?username=TonyFinder&repo=Pedicure-master&color=greent&bg_color=000&text_color=b2b1b1&title_color=fff&icon_color=fff)](https://github.com/TonyFinder/Pedicure-master)
-[![Cards-study](https://github-readme-stats.vercel.app/api/pin/?username=TonyFinder&repo=Cards-study&color=greent&bg_color=000&text_color=b2b1b1&title_color=fff&icon_color=fff)](https://github.com/TonyFinder/Cards-study)
-[![Codewars.com](https://github-readme-stats.vercel.app/api/pin/?username=TonyFinder&repo=Codewars.com&color=greent&bg_color=000&text_color=b2b1b1&title_color=fff&icon_color=fff)](https://github.com/TonyFinder/Codewars.com)
+[![Pedicure-master](https://github-readme-stats.vercel.app/api/pin/?username=TonyFinder&repo=Pedicure-master&color=greent&bg_color=000&text_color=b2b1b1&theme=react)](https://github.com/TonyFinder/Pedicure-master)
+[![Cards-study](https://github-readme-stats.vercel.app/api/pin/?username=TonyFinder&repo=Cards-study&color=greent&bg_color=000&text_color=b2b1b1&theme=react)](https://github.com/TonyFinder/Cards-study)
+[![Codewars.com](https://github-readme-stats.vercel.app/api/pin/?username=TonyFinder&repo=Codewars.com&color=greent&bg_color=000&text_color=b2b1b1&theme=react)](https://github.com/TonyFinder/Codewars.com)
 
 
-#### Projects can be viewed
+#### *Projects can be viewed*
     Not all the features have been implemented. The projects are not adapted to popular screens. 
 
-[![Todolist](https://github-readme-stats.vercel.app/api/pin/?username=TonyFinder&repo=Todolist&color=greent&bg_color=000&text_color=b2b1b1&title_color=fff&icon_color=fff)](https://github.com/TonyFinder/Todolist)
-[![Social-network](https://github-readme-stats.vercel.app/api/pin/?username=TonyFinder&repo=Social-network&color=greent&bg_color=000&text_color=b2b1b1&title_color=fff&icon_color=fff)](https://github.com/TonyFinder/Social-network)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=TonyFinder&repo=Portfolio&color=greent&bg_color=000&text_color=b2b1b1&title_color=fff&icon_color=fff)](https://github.com/TonyFinder/Portfolio)
+[![Todolist](https://github-readme-stats.vercel.app/api/pin/?username=TonyFinder&repo=Todolist&color=greent&bg_color=000&text_color=b2b1b1&theme=react)](https://github.com/TonyFinder/Todolist)
+[![Social-network](https://github-readme-stats.vercel.app/api/pin/?username=TonyFinder&repo=Social-network&color=greent&bg_color=000&text_color=b2b1b1&theme=react)](https://github.com/TonyFinder/Social-network)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=TonyFinder&repo=Portfolio&color=greent&bg_color=000&text_color=b2b1b1&theme=react)](https://github.com/TonyFinder/Portfolio)
 
 
 ## My stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonyFinder&layout=compact&color=greent&bg_color=000&text_color=fff&title_color=fff)](https://github.com/anuraghazra/github-readme-stats)  
+![TonyFinder's GitHub stats](https://github-readme-stats.vercel.app/api?username=TonyFinder&show_icons=true&bg_color=000&text_color=b2b1b1&theme=react&hide=stars,prs,contribs)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonyFinder&layout=compact&color=greent&bg_color=000&text_color=b2b1b1&theme=react)](https://github.com/anuraghazra/github-readme-stats)
