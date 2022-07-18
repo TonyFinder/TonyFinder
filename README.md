@@ -1,4 +1,4 @@
-## Hi there!  
+## Hi there! I'm Anton!
 #### I'm a Front-end developer.
 
 ## My skills
