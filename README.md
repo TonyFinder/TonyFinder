@@ -3,10 +3,10 @@
 
 ## How to reach me
 
-[<img src="https://img.icons8.com/plasticine/100/000000/telegram-app.png" width="5%"/>](https://t.me/AntonVVO)
-[<img src="https://img.icons8.com/plasticine/100/000000/whatsapp.png" width="5%"/>](https://wa.me/79020772627)
-[<img src="https://img.icons8.com/plasticine/100/000000/instagram.png" width="5%"/>](https://www.instagram.com/tonyfinder)
-[<img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="5%"/>](mailto:antonrozdobudko@gmail.com)
+[<img src="https://img.icons8.com/plasticine/100/000000/telegram-app.png" width="60"/>](https://t.me/AntonVVO)
+[<img src="https://img.icons8.com/plasticine/100/000000/whatsapp.png" width="60"/>](https://wa.me/79020772627)
+[<img src="https://img.icons8.com/plasticine/100/000000/instagram.png" width="60"/>](https://www.instagram.com/tonyfinder)
+[<img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="60"/>](mailto:antonrozdobudko@gmail.com)
 
 ## My skills
 
