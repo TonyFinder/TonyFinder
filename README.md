@@ -29,6 +29,8 @@
 
 ## My repositories
 
+`You will find a detailed description inside all my repositories`
+
 #### *Completed projects*
     Some features may be added to the repositories over time.
 
