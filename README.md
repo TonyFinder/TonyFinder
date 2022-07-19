@@ -1,5 +1,12 @@
-## Hi there! I'm Anton!
+# Hi there! I'm Anton!
 #### I'm a Front-end developer.
+
+## How to reach me
+
+[<img src="https://img.icons8.com/plasticine/100/000000/telegram-app.png" width="5%"/>](https://t.me/AntonVVO)
+[<img src="https://img.icons8.com/plasticine/100/000000/whatsapp.png" width="5%"/>](https://wa.me/79020772627)
+[<img src="https://img.icons8.com/plasticine/100/000000/instagram.png" width="5%"/>](https://www.instagram.com/tonyfinder)
+[<img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="5%"/>](mailto:antonrozdobudko@gmail.com)
 
 ## My skills
 
@@ -26,7 +33,7 @@
     Some features may be added to the repositories over time.
 
 [![Pedicure-master](https://github-readme-stats.vercel.app/api/pin/?username=TonyFinder&repo=Pedicure-master&color=greent&bg_color=000&text_color=b2b1b1&theme=react)](https://github.com/TonyFinder/Pedicure-master)
-[![Cards-study](https://github-readme-stats.vercel.app/api/pin/?username=TonyFinder&repo=Cards-study&color=greent&bg_color=000&text_color=b2b1b1&theme=react)](https://github.com/TonyFinder/Cards-study)
+[![Cards-study](https://github-readme-stats.vercel.app/api/pin/?username=TonyFinder&repo=Cards-study&color=greent&bg_color=000&text_color=b2b1b1&theme=react)](https://github.com/TonyFinder/Cards-study)  
 [![Codewars.com](https://github-readme-stats.vercel.app/api/pin/?username=TonyFinder&repo=Codewars.com&color=greent&bg_color=000&text_color=b2b1b1&theme=react)](https://github.com/TonyFinder/Codewars.com)
 
 
@@ -34,7 +41,7 @@
     Not all the features have been implemented. The projects are not adapted to popular screens. 
 
 [![Todolist](https://github-readme-stats.vercel.app/api/pin/?username=TonyFinder&repo=Todolist&color=greent&bg_color=000&text_color=b2b1b1&theme=react)](https://github.com/TonyFinder/Todolist)
-[![Social-network](https://github-readme-stats.vercel.app/api/pin/?username=TonyFinder&repo=Social-network&color=greent&bg_color=000&text_color=b2b1b1&theme=react)](https://github.com/TonyFinder/Social-network)
+[![Social-network](https://github-readme-stats.vercel.app/api/pin/?username=TonyFinder&repo=Social-network&color=greent&bg_color=000&text_color=b2b1b1&theme=react)](https://github.com/TonyFinder/Social-network)  
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=TonyFinder&repo=Portfolio&color=greent&bg_color=000&text_color=b2b1b1&theme=react)](https://github.com/TonyFinder/Portfolio)
 
 
