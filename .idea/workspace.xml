@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82469f01-7d81-4408-9b30-812e85912bab" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CQuNAfvyL4Csle3m8tVHCjWWsu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Incubator/Studying/Tests/MonthlyExams&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task id="LOCAL-00001" summary="Changed ReadMe file.">
+      <created>1658125605319</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658125605319</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Changed ReadMe file to react view.">
+      <created>1658150311830</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658150311830</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added contact details in ReadMe.">
+      <created>1658202486090</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1658202486090</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ReadMe has been changed.">
+      <created>1658203181810</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1658203181810</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Changed contact me icons.">
+      <created>1658203552953</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1658203552953</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Color has been changed.">
+      <created>1658234909356</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1658234909356</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82469f01-7d81-4408-9b30-812e85912bab" name="Changes" comment="" />
+      <created>1658747086790</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658747086790</updated>
+      <workItem from="1658747088341" duration="427000" />
+      <workItem from="1659183430734" duration="157000" />
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changed ReadMe file." />
+    <MESSAGE value="Changed ReadMe file to react view." />
+    <MESSAGE value="Added contact details in ReadMe." />
+    <MESSAGE value="ReadMe has been changed." />
+    <MESSAGE value="Changed contact me icons." />
+    <MESSAGE value="Color has been changed." />
+    <option name="LAST_COMMIT_MESSAGE" value="Color has been changed." />
+  </component>
+</project>

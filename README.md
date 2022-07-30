@@ -27,6 +27,12 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&labelColor=20232a&color=514f4f)
 ![GitHub](https://img.shields.io/badge/GitHub-1.svg?style=for-the-badge&logo=GitHub&labelColor=20232a&color=514f4f)
 
+## Additional skills
+
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&labelColor=20232a&color=514f4f)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&labelColor=20232a&color=514f4f)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&labelColor=20232a&color=514f4f)
+
 ## My repositories
 
 `You will find a detailed description inside all my repositories`
