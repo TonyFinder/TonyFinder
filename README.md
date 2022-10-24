@@ -41,6 +41,7 @@
 #### *Completed projects*
     Some features may be added to the repositories over time.
 
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=TonyFinder&repo=Portfolio&color=greent&text_color=b2b1b1&theme=react)](https://github.com/TonyFinder/Portfolio)  
 [![Pedicure-master](https://github-readme-stats.vercel.app/api/pin/?username=TonyFinder&repo=Pedicure-master&color=greent&text_color=b2b1b1&theme=react)](https://github.com/TonyFinder/Pedicure-master)
 [![Cards-study](https://github-readme-stats.vercel.app/api/pin/?username=TonyFinder&repo=Cards-study&color=greent&text_color=b2b1b1&theme=react)](https://github.com/TonyFinder/Cards-study)  
 [![Codewars.com](https://github-readme-stats.vercel.app/api/pin/?username=TonyFinder&repo=Codewars.com&color=greent&text_color=b2b1b1&theme=react)](https://github.com/TonyFinder/Codewars.com)
@@ -50,8 +51,7 @@
     Not all the features have been implemented. The projects are not adapted to popular screens. 
 
 [![Todolist](https://github-readme-stats.vercel.app/api/pin/?username=TonyFinder&repo=Todolist&color=greent&text_color=b2b1b1&theme=react)](https://github.com/TonyFinder/Todolist)
-[![Social-network](https://github-readme-stats.vercel.app/api/pin/?username=TonyFinder&repo=Social-network&color=greent&text_color=b2b1b1&theme=react)](https://github.com/TonyFinder/Social-network)  
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=TonyFinder&repo=Portfolio&color=greent&text_color=b2b1b1&theme=react)](https://github.com/TonyFinder/Portfolio)
+[![Social-network](https://github-readme-stats.vercel.app/api/pin/?username=TonyFinder&repo=Social-network&color=greent&text_color=b2b1b1&theme=react)](https://github.com/TonyFinder/Social-network)
 
 
 ## My stats
