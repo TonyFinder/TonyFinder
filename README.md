@@ -30,6 +30,7 @@
 
 ## Additional skills
 
+![Touch Typing](https://img.shields.io/badge/Touch_Typing-1.svg?style=for-the-badge&logo=TouchTyping&labelColor=20232a&color=514f4f)  
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&labelColor=20232a&color=514f4f)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&labelColor=20232a&color=514f4f)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&labelColor=20232a&color=514f4f)
