@@ -3,7 +3,7 @@
 
 ## How to reach me
 
-[<img src="https://img.icons8.com/plasticine/100/000000/telegram-app.png" width="60"/>](https://t.me/AntonVVO)
+[<img src="https://img.icons8.com/plasticine/100/000000/telegram-app.png" width="60"/>](https://t.me/Tony_Find)
 [<img src="https://img.icons8.com/plasticine/100/000000/whatsapp.png" width="60"/>](https://wa.me/79020772627)
 [<img src="https://img.icons8.com/plasticine/100/000000/facebook-new.png" width="60"/>](https://www.facebook.com/anton.rozdobudko)
 [<img src="https://img.icons8.com/plasticine/100/000000/instagram.png" width="60"/>](https://www.instagram.com/tonyfinder)
